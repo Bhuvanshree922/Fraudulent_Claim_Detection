@@ -1,0 +1,42 @@
+# macOS files
+.DS_Store
+__MACOSX/
+
+# Archive files
+*.zip
+*.tar.gz
+*.rar
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.env
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Model files (if large)
+*.pkl
+*.joblib
+*.h5
+
+# Data files (if large)
+*.csv
+*.xlsx
+*.json
+data/
+
+# Output files
+output/
+results/
